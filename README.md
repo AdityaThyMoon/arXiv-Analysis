@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/c6e1d10f-c130-4d68-974c-86da6b160d06)
 ![image](https://github.com/user-attachments/assets/ceacc625-7072-42ac-ae05-1401f664a0b1)
 
-**Goal**: Automated topic analysis of 2.7M+ ArXiv papers using ML
+## Goal: Automated topic analysis of 2.7M+ ArXiv papers using ML
 
 ## Pipeline
 - Preprocessed text → Sentence-BERT embeddings → UMAP + K-Means (k=50)

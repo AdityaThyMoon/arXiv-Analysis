@@ -1,5 +1,5 @@
 # arXiv-Analysis
-## Topic Modelling + Sentiment Analysis of Research Papers in the arXiv Database
+## Topic Modelling of Research Papers in the arXiv Database
 ## Code is in file titled: project1.ipynb
 
 ![image](https://github.com/user-attachments/assets/c6e1d10f-c130-4d68-974c-86da6b160d06)
